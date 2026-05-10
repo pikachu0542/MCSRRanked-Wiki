@@ -151,7 +151,7 @@ Achievements that require winning a match can only be earned if you win by compl
 | You Only Get One Shot | Win a match after killing the Ender Dragon with a single arrow        | ![You Only Get One Shot achievement badge](./img/achievement/you_only_get_one_shot.png){width="150"} |
 
 
-## [Playoffs](/playoffs/main_bracket) Achievements
+## [Playoffs](/playoffs/bracket) Achievements
 After playoffs ends, each participant will earn an achievement based on their result. In-game achievements will also show the season number.
 
 | ![Playoffs winner achievement badge](./img/achievement/playoffs_1st.png){width="150"} | ![Playoffs 2nd place achievement badge](./img/achievement/playoffs_2nd.png){width="150"} | ![Playoffs 3rd place achievement badge](./img/achievement/playoffs_3rd.png){width="150"} | ![Playoffs participant achievement badge](./img/achievement/playoffs_participant.png){width="150"} |

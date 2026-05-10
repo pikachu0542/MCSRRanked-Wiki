@@ -163,7 +163,7 @@ export default defineConfig({
             {
               text: 'MCSR Ranked Playoffs',
               items: [
-                { text: 'Main Bracket (Playoffs)', link: '/main_bracket' },
+                { text: 'Main Bracket (Playoffs)', link: '/bracket' },
                 { text: 'Last-Chance Qualifiers', link: '/last_chance_qualifiers' },
                 { text: 'Midseason Showdown', link: '/midseason_showdown' },
               ]

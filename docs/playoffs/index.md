@@ -6,7 +6,7 @@ You can find all VODs of Playoffs from [Official YouTube channel](https://www.yo
 - [Phase Point System Explanation](./phase_point)
 - [General Tournament Rules](./rules#general-tournament-rules)
 - MCSR Ranked Playoffs
-    - [Format](./bracket)
+    - [Format](./main_bracket)
     - [Rules](./rules#bracket-rules)
 - Last-Chance Qualifiers (LCQ)
     - [Format](./last_chance_qualifiers)

@@ -8,15 +8,15 @@ The RNG Seed is same as Overworld seed by default. In private room, you can use 
 This document will describe what is standardized based on RNG Seed.
 
 ## Piglin Barters
-- Barter chances for Ender Pearls and Obsidian are increased
-- 6 Obsidian is guaranteed in the first 72 barters (8 Gold Blocks)
-- 3 Ender Pearl trades are guaranteed in the first 72 barters (8 Gold Blocks)
+- Barter chances for Obsidian are increased by ~35%
+- At least 6 Obsidian is guaranteed every 72 barters (8 Gold Blocks)
+- Exactly 3 Ender Pearl trades are guaranteed every 72 barters (8 Gold Blocks)
 - All players in the match have the same trades in the same order
 
 ## Entity Drop Loot
 - Blaze Rod rates from Blazes are standardized
 - Ender Pearl rates from Endermen are standardized
-- Iron Golems will always drop 4 Iron
+- Iron Golems always drop 4 Iron (never 3 or 5)
 - Food drops from animals and Hoglins are standardized
 
 ## Block Drop Loot
@@ -28,8 +28,10 @@ This document will describe what is standardized based on RNG Seed.
 - Eye of Ender throw break rates are standardized
   - Also, the 2nd eye throw will never break
 - Hunger effect rates from Rotten Flesh is standardized
-- Endermite spawn rates from Ender Pearl throw is standardized
-- Wool rates from sheep with shear uses are standardized
+- Effects from Suspicious Stew are standardized
+  - Also, Suspicious Stew can never give Poison
+- Endermite spawn rates from Ender Pearl throw is standardized per dimension
+- Wool rates from shearing sheep are standardized
 
 ## Ender Dragon
 - The sequence of target block height offsets is standardized within each phase
@@ -52,7 +54,7 @@ The mod tries to attempt up to 4 spots in the spawner. These 4 spots are the sam
 - Magma Cube spawning positions and sizes are standardized
 
 ## Mob Behavior
-- Monsters do not spawn in Bastion Remnants except built-in entities (Can be toggled in Private Room settings)
+- Monsters do not spawn in Bastion Remnants except built-in entities
 - Monsters do not spawn in Desert Temples
 - Zombified Piglins avoid pathfinding into Bastion Remnants
 - Ghasts do not spawn within 5 chunks of the player

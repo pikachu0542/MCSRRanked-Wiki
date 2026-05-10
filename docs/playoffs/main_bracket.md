@@ -22,21 +22,19 @@ As shown in the bracket below, all matchups after the Round of 16 are automatica
 
 ![Bracket Image](img/alpha_bracket.png)
 
-## Seed Type Pick & Ban
-In the bracket, players can choose from the same 5 seed types used in the MCSR Ranked Seed Filter. Players can strategically decide which seeds to play or avoid through seed type picks and bans.
+## Seed Type Pick
+In the bracket, players can choose from the same 5 seed types used in the MCSR Ranked Seed Filter. Players can strategically decide which seeds to play.
 
 For more information on the seed types, check [here](/gameplay/seed#overworld-types).
 
-### Ban
-At the beginning of each round, the lower-seeded player bans one of the 5 seed types, and the higher-seeded player bans one of the remaining 4. Banned seeds cannot be played in that match. However, if the winner has not been determined after the 3rd seed, a banned seed may be picked.
-
 ### Pick
-Before starting each seed, the player who lost the previous seed will choose the next seed. The first seed of the match will be chosen by the higher-seeded player. Seeds that are banned or have already been played in the same match cannot be picked. However, if the winner has not been determined after the 3rd seed, players may pick a seed that has already been played from the previous 5 seeds.
+Before starting first seed, top seeded player chooses first seed type.
+And then, loser of each seed picks the next seed type. However, loser can't pick the last seed typed played or any seed type have won on.
 
 ### Summary
 To summarize, the seed ban and pick process is as follows:
-- Seed type ban #1: Lower-seeded player
-- Seed type ban #2: Higher-seeded player
 - First seed pick: Higher-seeded player
-- After each seed: The player who lost the previous seed picks the next seed
-  - After seed 3: All previously banned and picked seed restrictions are lifted
+- After each seed: The player who lost the previous seed picks the next seed, except last seed typed played or any seed type have they won.
+  - e.g) `A` player has picked the Village seed type for first seed, and lost in second seed with Shipwreck seed type, This A player can pick anything from every seed types[^Types] except those 2 types.
+  - In other words, a player can pick a seed type twice they have already played in that match. (technically, they must have lost with that seed type previously)
+[^Types]: So, Buried Treasure, Desert Temple and Ruined Portal
